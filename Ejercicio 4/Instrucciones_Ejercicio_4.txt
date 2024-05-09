@@ -1,0 +1,8 @@
+Ejercicios 4
+
+A grocery store wants to know its customers better in order to create personalized marketing
+campaigns. You are asked to develop a classification model using Keras that takes into account
+customers' shopping frequency, their spending habits and the maximum amount they spend in the
+store. The goal of the model is to classify customers into three categories: low, medium and high
+value.
+Attached training data in a file named data_customer_classification
