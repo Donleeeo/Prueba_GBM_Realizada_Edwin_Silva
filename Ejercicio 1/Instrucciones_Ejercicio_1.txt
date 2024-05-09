@@ -1,0 +1,6 @@
+Ejercicios 1
+1. Un palíndromo, también llamado palíndromo, palíndroma o palindroma, es una palabra, o
+frase que se lee igual en un sentido que en otro. Ejemplo ANA se puede leer al derecho y al
+revés y significa lo mismo.
+● Punto extra - No puede usar ciclos
+● Punto extra - No más de 5 líneas de código
